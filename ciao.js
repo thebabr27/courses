@@ -1,1 +1,7 @@
-alert(100);
+class Ciao {
+   constructor() {
+      alert(100);
+   }
+}
+
+ciao = new Ciao();
